@@ -1,9 +1,9 @@
-import GlobalStyle from './styles/global'
+import Home from './pages/Home'
 
 function App() {
   return (
     <div>
-      <GlobalStyle/>
+      <Home/>
     </div>
   )
 }
