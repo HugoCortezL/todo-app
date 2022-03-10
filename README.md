@@ -47,6 +47,6 @@ $ npm run dev
  
 <h2 id="personal">Personal 🙋‍♂️</h2>
  
-Linkedin: https://www.linkedin.com/in/hugo-vitorino/
+Linkedin: https://www.linkedin.com/in/hugo-vitorino/ 
 </br>
 Email: hugocortezprog@gmail.com
